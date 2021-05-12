@@ -1,4 +1,3 @@
-#GuessingGameSolution.java
 
 import java.util.Scanner;
 
